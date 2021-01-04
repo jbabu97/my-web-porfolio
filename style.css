@@ -95,6 +95,15 @@ p{
 /* ends experience section */
 
 /* starts footer section */
+footer{
+    background-color: rgb(200, 236, 236);
+    padding: 40px 0;
+}
+.footer_half{
+    width: 40%;
+    float: left;
+    margin: 0 5%;
+}
 .right{
     text-align: right;
 }
